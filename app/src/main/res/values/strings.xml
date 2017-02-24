@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LauncherAppDemo</string>
+    <string name="wait">Loading!</string>
 </resources>

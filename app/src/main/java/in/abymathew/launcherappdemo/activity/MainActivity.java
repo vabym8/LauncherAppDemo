@@ -1,7 +1,9 @@
-package in.abymathew.launcherappdemo;
+package in.abymathew.launcherappdemo.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import in.abymathew.launcherappdemo.R;
 
 public class MainActivity extends AppCompatActivity {
 
